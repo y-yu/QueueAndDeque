@@ -1,4 +1,4 @@
-typedef Queue<X> = {
-	var f : AbsList<X>;
-	var r : AbsList<X>;
+typedef Queue<T> = {
+	var f : AbsList<T>;
+	var r : AbsList<T>;
 }
